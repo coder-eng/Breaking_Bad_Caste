@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
-import Header from './component/UI/Header'
-import Charactergrid from './component/characters/Charactergrid'
-import Search from './component/UI/Search'
+import Header from './components/ui/Header'
+import Charactergrid from './components/characters/Charactergrid'
+import Search from './components/ui/Search'
 import './App.css';
 
 const App = () => {
